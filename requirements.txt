@@ -1,0 +1,7 @@
+faster-whisper
+TTS
+gradio
+sounddevice
+wavio
+requests
+pyyaml
